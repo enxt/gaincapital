@@ -1,0 +1,13 @@
+{
+  "name": "gaincapital",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "adm-zip": "^0.4.11",
+    "d3": "^5.5.0",
+    "download": "^7.1.0",
+    "fs": "^0.0.1-security"
+  }
+}
